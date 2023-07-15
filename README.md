@@ -161,3 +161,14 @@ The project has a simple structure, represented as bellow:
 <br />
 
 ---
+## Author
+
+👤 **Joy Karimi**
+👤 **Daniel Kisavi**
+👤 **Celso Mainato**
+👤 **Ngevao Tamba**
+👤 **Innocent Irankunda**
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
